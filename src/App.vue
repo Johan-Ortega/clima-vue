@@ -6,8 +6,7 @@
   import useClima from './composables/useClima';
 
   const { obtenerClima, clima, cargando, error, mostrarClima } = useClima()
-
-  console.log(import.meta.env)
+  
 </script>
 
 <template>
